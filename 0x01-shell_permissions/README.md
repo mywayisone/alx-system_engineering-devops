@@ -22,5 +22,8 @@
 
 11-directories_permissions script changes folder permission
 
-12-directory_permissions script creates a directory and and sets the mode		
+12-directory_permissions script creates a directory and and sets the mode	
+
+13-change_group script set the group owner mode for another file
+
 	
