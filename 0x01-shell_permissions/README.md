@@ -17,4 +17,6 @@
 8-James_Bond script changes the file permission
 
 9-John_Doe script changes hello's file permission
+
+10-mirror_permissions script changes file permission using reference
 	
