@@ -14,4 +14,7 @@
 
 7-everybody script adds execution permission to the owner, the group owner and the other users, to the file hello
 
+8-James_Bond script changes the file permission
+
+9-John_Doe script changes hello's file permission
 	
