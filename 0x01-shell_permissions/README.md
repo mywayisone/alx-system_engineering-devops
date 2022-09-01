@@ -4,4 +4,8 @@
 
 2-groups script displays all the groups the current user is part of
 
-3-new_owner script change file owner to betty	
+3-new_owner script change file owner to betty
+
+4-empty script creats a new empty file
+
+
