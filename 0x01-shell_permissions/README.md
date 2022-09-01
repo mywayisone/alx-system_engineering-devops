@@ -6,6 +6,6 @@
 
 3-new_owner script change file owner to betty
 
-4-empty script creats a new empty file
+4-empty script creates a new empty file
 
-
+5-execute script add execute permission to the owner of the file hello
