@@ -19,4 +19,7 @@
 9-John_Doe script changes hello's file permission
 
 10-mirror_permissions script changes file permission using reference
+
+11-directories_permissions script changes folder permission
+
 	
